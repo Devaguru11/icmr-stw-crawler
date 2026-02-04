@@ -49,7 +49,3 @@ You can adjust configuration variables in `src/crawler.py` if needed:
 - `START_URL`: Entry point for the crawler.
 - `MAX_PAGES`: Maximum number of pages to crawl (Safety limit).
 - `MIN_FILE_SIZE`: Minimum size of PDFs to download (default: 50KB).
-
-## License
-
-MIT License
