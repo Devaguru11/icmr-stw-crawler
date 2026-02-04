@@ -33,6 +33,7 @@ Run the crawler using the following command:
 ```bash
 python src/crawler.py
 ```
+This might take 1-2 min to start saving the files into `data/`
 
 ## Output Structure
 
